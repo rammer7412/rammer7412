@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Views](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Frammer7412?color=green&label=Views&size=small)](https://myhits.vercel.app)
 
 <!--
 **rammer7412/rammer7412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
